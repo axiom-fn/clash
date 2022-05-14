@@ -1,5 +1,9 @@
 DOMAIN,zhihu.com
+DOMAIN,zhihu
 DOMAIN-SUFFIX,www.zhihu.com
+DOMAIN-SUFFIX,pic1.zhimg.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
+DOMAIN-SUFFIX,zhihu
 DOMAIN,appcloud2.in.zhihu.com
 DOMAIN,mqtt.zhihu.com
 DOMAIN,mqtt-internal-public.zhihu.com
@@ -10,4 +14,6 @@ DOMAIN,203.119.128.123
 DOMAIN,sugar.zhihu.com
 IP-CIDR,118.89.204.198/32,no-resolve
 IP-CIDR,203.119.128.123/32,no-resolve
+IP-CIDR,203.119.206.0/32,no-resolve
+IP-CIDR,203.119.204.254/32,no-resolve
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
