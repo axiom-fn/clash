@@ -2,7 +2,8 @@ DOMAIN-KEYWORD,ndmdhs
 DOMAIN-KEYWORD,headphonesconnect
 DOMAIN-KEYWORD,headphones
 DOMAIN-KEYWORD,musiccenter
-DOMAIN-KEYWORD,v1.api.auth.seeds.services
+DOMAIN-KEYWORD,seeds.services
+DOMAIN-SUFFIX,v1.api.data-gateway.seeds.services
 DOMAIN-SUFFIX,musiccenter-cdn.meta.ndmdhs.com
 DOMAIN-SUFFIX,headphones-cdn.meta.ndmdhs.com
 DOMAIN-SUFFIX,sony.net
