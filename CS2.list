@@ -1,6 +1,5 @@
 PROCESS-NAME,Counter-Strike 2
 PROCESS-NAME,Counter-Strike 2.exe
-PROCESS-NAME,cs2.exe
 PROCESS-NAME,cs2_build_econ_items.exe
 PROCESS-NAME,csgocfg.exe
 PROCESS-NAME,cs_mdl_import.exe
