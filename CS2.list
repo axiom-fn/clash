@@ -1,1 +1,11 @@
 PROCESS-NAME,cs2.exe
+PROCESS-NAME,cs2_build_econ_items.exe
+PROCESS-NAME,csgocfg.exe
+PROCESS-NAME,cs_mdl_import.exe
+PROCESS-NAME,dmxconvert.exe
+PROCESS-NAME,resourcecompiler.exe
+PROCESS-NAME,resourcecopy.exe
+PROCESS-NAME,resourceinfo.exe
+PROCESS-NAME,source1import.exe
+PROCESS-NAME,vconsole2.exe
+PROCESS-NAME,vrad3.exe
