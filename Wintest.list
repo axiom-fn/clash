@@ -1,2 +1,7 @@
-DOMAIN,msftconnecttest.com
+IP-CIDR,131.107.255.255/24,no-resolve
+DOMAIN,dns.msftncsi.com
+DOMAIN,www.msftncsi.com
+DOMAIN,www.msftonnecttest.com
 DOMAIN,msftncsi.com
+DOMAIN,msftonnecttest.com
+DOMAIN,ipv6.msftconnecttest.com
