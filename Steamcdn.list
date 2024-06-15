@@ -1,61 +1,61 @@
 # 白山雲
-DOMAIN,st.dl.eccdnx.com
-DOMAIN,st.dl.bscstorage.net
-DOMAIN,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 # 新流雲(原金山雲)(支援ipv6)
-DOMAIN,dl.steam.clngaa.com
+DOMAIN-SUFFIX,dl.steam.clngaa.com
 # 網宿
-DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
-DOMAIN,cdn-ws.content.steamchina.com (蒸汽災區獨佔)
+DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com
+DOMAIN-SUFFIX,cdn-ws.content.steamchina.com (蒸汽災區獨佔)
 # 騰訊雲 (蒸汽災區獨佔)
-DOMAIN,cdn-qc.content.steamchina.com
+DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
 # 阿里雲(支援ipv6)
-DOMAIN,cdn-ali.content.steamchina.com (蒸汽災區獨佔)
-DOMAIN,xz.pphimalayanrt.com
-DOMAIN,lv.queniujq.cn
-DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+DOMAIN-SUFFIX,cdn-ali.content.steamchina.com (蒸汽災區獨佔)
+DOMAIN-SUFFIX,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,lv.queniujq.cn
+DOMAIN-SUFFIX,alibaba.cdn.steampipe.steamcontent.com
 
 # ===========下面為國際CDN===========
 
 # Valve
-DOMAIN,steamcontent.com
+DOMAIN-SUFFIX,steamcontent.com
 
 # edgecast
-DOMAIN,edge.steam-dns.top.comcast.net
-DOMAIN,edgecast.cdn.steampipe.steamcontent.com
+DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
+DOMAIN-SUFFIX,edgecast.cdn.steampipe.steamcontent.com
 
 # Google
-DOMAIN,google.cdn.steampipe.steamcontent.com
-DOMAIN,google2.cdn.steampipe.steamcontent.com
+DOMAIN-SUFFIX,google.cdn.steampipe.steamcontent.com
+DOMAIN-SUFFIX,google2.cdn.steampipe.steamcontent.com
 
 # Level3
-DOMAIN,level3.cdn.steampipe.steamcontent.com
-DOMAIN,steampipe-partner.secure2.footprint.net
+DOMAIN-SUFFIX,level3.cdn.steampipe.steamcontent.com
+DOMAIN-SUFFIX,steampipe-partner.secure2.footprint.net
 
 # 網宿(國際)
-DOMAIN,steam.eca.qtlglb.com
-DOMAIN,steam.naeu.qtlglb.com
-DOMAIN,steam.ru.qtlglb.com
-DOMAIN,steam.apac.qtlglb.com
+DOMAIN-SUFFIX,steam.eca.qtlglb.com
+DOMAIN-SUFFIX,steam.naeu.qtlglb.com
+DOMAIN-SUFFIX,steam.ru.qtlglb.com
+DOMAIN-SUFFIX,steam.apac.qtlglb.com
 
 # Akamai
-DOMAIN,steampipe-kr.akamaized.net
-DOMAIN,steampipe-partner.akamaized.net
-DOMAIN,steampipe.akamaized.net
+DOMAIN-SUFFIX,steampipe-kr.akamaized.net
+DOMAIN-SUFFIX,steampipe-partner.akamaized.net
+DOMAIN-SUFFIX,steampipe.akamaized.net
 
 # HIGHWINDS
-DOMAIN,f3b7q2p3.ssl.hwcdn.net
-DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
+DOMAIN-SUFFIX,f3b7q2p3.ssl.hwcdn.net
+DOMAIN-SUFFIX,a4e8s8k3.map2.ssl.hwcdn.net
 
 # Telus
-DOMAIN,telus.cdn.steampipe.steamcontent.com
+DOMAIN-SUFFIX,telus.cdn.steampipe.steamcontent.com
 
 # internode
-DOMAIN,steam.cdn.on.net
+DOMAIN-SUFFIX,steam.cdn.on.net
 
 # orcon
-DOMAIN,steam.cdn.orcon.net.nz
-DOMAIN,steam.cdn.slingshot.co.nz
+DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
+DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
 
 # webra
-DOMAIN,steam.cdn.webra.ru
+DOMAIN-SUFFIX,steam.cdn.webra.ru
