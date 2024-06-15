@@ -1,0 +1,61 @@
+# 白山雲
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.pinyuncloud.com
+# 新流雲(原金山雲)(支援ipv6)
+DOMAIN,dl.steam.clngaa.com
+# 網宿
+DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
+DOMAIN,cdn-ws.content.steamchina.com (蒸汽災區獨佔)
+# 騰訊雲 (蒸汽災區獨佔)
+DOMAIN,cdn-qc.content.steamchina.com
+# 阿里雲(支援ipv6)
+DOMAIN,cdn-ali.content.steamchina.com (蒸汽災區獨佔)
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN,lv.queniujq.cn
+DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+
+# ===========下面為國際CDN===========
+
+# Valve
+DOMAIN,steamcontent.com
+
+# edgecast
+DOMAIN,edge.steam-dns.top.comcast.net
+DOMAIN,edgecast.cdn.steampipe.steamcontent.com
+
+# Google
+DOMAIN,google.cdn.steampipe.steamcontent.com
+DOMAIN,google2.cdn.steampipe.steamcontent.com
+
+# Level3
+DOMAIN,level3.cdn.steampipe.steamcontent.com
+DOMAIN,steampipe-partner.secure2.footprint.net
+
+# 網宿(國際)
+DOMAIN,steam.eca.qtlglb.com
+DOMAIN,steam.naeu.qtlglb.com
+DOMAIN,steam.ru.qtlglb.com
+DOMAIN,steam.apac.qtlglb.com
+
+# Akamai
+DOMAIN,steampipe-kr.akamaized.net
+DOMAIN,steampipe-partner.akamaized.net
+DOMAIN,steampipe.akamaized.net
+
+# HIGHWINDS
+DOMAIN,f3b7q2p3.ssl.hwcdn.net
+DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
+
+# Telus
+DOMAIN,telus.cdn.steampipe.steamcontent.com
+
+# internode
+DOMAIN,steam.cdn.on.net
+
+# orcon
+DOMAIN,steam.cdn.orcon.net.nz
+DOMAIN,steam.cdn.slingshot.co.nz
+
+# webra
+DOMAIN,steam.cdn.webra.ru
