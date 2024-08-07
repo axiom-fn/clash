@@ -1,9 +1,1 @@
-IP-CIDR,8.8.4.4/32,no-resolve
-IP-CIDR,8.8.8.8/32,no-resolve
-IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,94.140.14.15/32,no-resolve
-IP-CIDR,168.95.1.1/32,no-resolve
-DOMAIN,8888.google
-DOMAIN,dns.google
-DOMAIN,dns.google.com
 DOMAIN,dns.cloudflare.com
