@@ -1,7 +1,7 @@
 IP-CIDR,131.107.255.255/24,no-resolve
-DOMAIN-SUFFIX,dns.msftncsi.com
-DOMAIN-SUFFIX,www.msftncsi.com
-DOMAIN-SUFFIX,www.msftonnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
-DOMAIN-SUFFIX,msftonnecttest.com
-DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+DOMAIN,dns.msftncsi.com,Proxy
+DOMAIN,www.msftncsi.com,Proxy
+DOMAIN,www.msftonnecttest.com,Proxy
+DOMAIN,msftncsi.com,Proxy
+DOMAIN,msftonnecttest.com,Proxy
+DOMAIN,ipv6.msftconnecttest.com,Proxy
