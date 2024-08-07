@@ -1,1 +1,3 @@
 DOMAIN,dns.cloudflare.com
+IP-CIDR,8.8.8.8/32
+DOMAIN,8.8.8.8
