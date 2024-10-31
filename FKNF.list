@@ -1,0 +1,5 @@
+- DOMAIN-SUFFIX,ios.ngp.prod.cloud.netflix.com
+- DOMAIN-SUFFIX,ios.prod.cloud.netflix.com
+- DOMAIN-SUFFIX,android-appboot.netflix.com
+- DOMAIN-SUFFIX,android.prod.cloud.netflix.com
+- DOMAIN-SUFFIX,appboot.netflix.com
