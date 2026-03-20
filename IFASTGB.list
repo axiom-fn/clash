@@ -1,13 +1,5 @@
 DOMAIN,www.ifastgb.com
 DOMAIN,sentry.ifastgb.com
 DOMAIN-SUFFIX,ifastgb.com
-
-IP-CIDR,203.74.67.67/32,no-resolve
-IP-CIDR,203.74.67.83/32,no-resolve
-IP-CIDR,203.69.138.35/32,no-resolve
-IP-CIDR,203.69.138.59/32,no-resolve
-
-IP-CIDR6,2001:b034:700:580::cb4a:5f89/128,no-resolve
-IP-CIDR6,2001:b034:700:580::cb4a:5fc2/128,no-resolve
-IP-CIDR6,2600:1417:1b::cb45:8a3b/128,no-resolve
-IP-CIDR6,2600:1417:1b::cb45:8a23/128,no-resolve
+DOMAIN-SUFFIX,fundsupermart
+DOMAIN-SUFFIX,fundsupermart.com
