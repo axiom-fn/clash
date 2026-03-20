@@ -1,6 +1,9 @@
 DOMAIN,h-adashx.ut.ele.me
 DOMAIN,cdn.ynuf.aliapp.org
 # 餓了麼/阿里系 精準直連修復
+IP-CIDR,114.112.215.138/32,no-resolve
+IP-CIDR,114.112.210.75/32,no-resolve
+IP-CIDR,114.112.210.77/32,no-resolve
 IP-CIDR,114.112.210.33/32,no-resolve
 IP-CIDR,114.112.210.34/32,no-resolve
 IP-CIDR,114.112.210.35/32,no-resolve
